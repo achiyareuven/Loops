@@ -11,7 +11,7 @@
 from itertools import count
 
 from unicodedata import digit
-
+#שינוי שינוי
 # שאלה2
 # num = int(input("please enter a number"))
 # for i in range(1,num+1):
